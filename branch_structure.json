@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/sanitize-query-params-xss",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/sanitize-query-params-xss": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/sanitize-query-params-xss",
+    "origin"
+  ]
+}
